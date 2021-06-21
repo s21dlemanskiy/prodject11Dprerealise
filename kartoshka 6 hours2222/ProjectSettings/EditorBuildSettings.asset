@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/dm_industrial.unity
+    guid: 461e2b58f99726546bdb8fc8b1fe4d3e
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: c2a3cb2432b2e6440b986ac5bad67969
+  - enabled: 0
+    path: Assets/Scenes/RecursionTest1.unity
+    guid: 82aacfff69ecb324fa0566878f015e66
+  - enabled: 0
+    path: Assets/Scenes/test.unity
+    guid: 51a6b31dfb46198448122bd4096e1809
+  - enabled: 0
+    path: "Assets/Scenes/\u044B\u0440\u0449\u0435\u0448\u0442\u043F \u0435\u0443\u044B\u0435.unity"
+    guid: f4c608a0b7b6e364d9baa55f74ab6ac3
+  m_configObjects: {}
